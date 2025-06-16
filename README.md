@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Akil</h1>
 <h3 align="center">Full-Stack Developer passionate about turning complex problems into elegant code — from front-end magic to back-end robustness.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadakil" alt="muhammadakil" /></a> </p>
-
 - 🔭 I’m currently working on [Order Management System (OMS)](https://oms.postex.ae/auth/login)
 
 - 🌱 I’m currently learning **Java — strengthening my fundamentals Spring Boot — developing enterprise applications AWS & GCP — exploring clouds, services, and scaling …and much more!**
