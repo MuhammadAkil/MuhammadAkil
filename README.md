@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/akil_mehar_306c31071e69e7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/akil_mehar_306c31071e69e7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammedakil/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bh8ciykw7tikecuknrbhjvg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammedakil/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bh8ciykw7tikecuknrbhjvg%3d%3d" height="30" width="40" /></a>
+<!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammedakil/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bh8ciykw7tikecuknrbhjvg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammedakil/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bh8ciykw7tikecuknrbhjvg%3d%3d" height="30" width="40" /></a> -->
 <a href="https://medium.com/@akilmehar12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akilmehar12" height="30" width="40" /></a>
 </p>
 
